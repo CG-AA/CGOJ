@@ -16,9 +16,9 @@ The Online Judge System is a comprehensive platform designed to facilitate codin
 - **Role-Based Management**: Ensure secure and organized access control with role-based management.
 
 ## Components
-- **Backend**: [C++](https://github.com/CG-AA/CGOJ-BackEnd)
-- **Frontend**: [React](https://github.com/CG-AA/CGOJ-FrontEnd)
-- **Database**: [MySQL](https://github.com/CG-AA/CGOJ-DataBase)
+- [**Backend**](https://github.com/CG-AA/CGOJ-BackEnd): C++
+- [**Frontend**](https://github.com/CG-AA/CGOJ-FrontEnd): React
+- [**Database**](https://github.com/CG-AA/CGOJ-DataBase): MySQL
 
 ## Installation
 ### Prerequisites
